@@ -37,3 +37,10 @@ int main() {
     cout << "Total page faults = " << pageFaults << "\n";
     return 0;
 }
+
+
+// Number of frames: 3
+//Length of reference string: 15
+//Enter reference string (space separated integers):
+//7 0 1 2 0 3 0 4 2 3 0 3 1 2 0
+//Total page faults = 12
